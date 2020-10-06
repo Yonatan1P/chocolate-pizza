@@ -1,0 +1,41 @@
+#ingredients{
+    background-image: url('/assets/chocolate_pizza/list-bg.png');
+    height: 200px;
+}
+#icons{
+    justify-content: flex-end;
+    width: 300px;
+}
+h1{
+    font-style: italic;
+    font-size: 150%;
+    font-weight: bold;
+    margin: none;
+    padding: none;
+}
+h2{
+    font-size:75%;
+    color: grey;
+}
+h3{
+    font-size: 200%;
+    font-weight: bolder;
+}
+h4{
+    color: grey;
+}
+h5{
+    color: grey;
+}
+body{
+    margin-left:10%;
+    margin-right:10%;
+    width: 900px;
+}
+ul{
+    column-count: 2;
+    font-size: 100%;
+}
+img{
+    justify-content: center;
+}
